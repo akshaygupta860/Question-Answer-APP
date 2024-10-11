@@ -1,5 +1,6 @@
 References : 
 
-https://howtodoinjava.com/spring-ai/spring-ai-pgvectorstore-example/
+https://www.youtube.com/watch?v=hf8EVwXs4OY&t=5s
 
-https://www.youtube.com/watch?v=aNKDoiOUo9M
+https://medium.com/@akshaygupta860/spring-ai-dbeb1fb63420
+
